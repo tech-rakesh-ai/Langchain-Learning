@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Langchain-Learning is a Streamlit-based learning tool that leverages OpenAI's language models (LLMs) to create interactive chains for exploring topics related to cricketers and historical events.
+Langchain-Learning is a Practice Project using Streamlit and learning tool that leverages OpenAI's language models (LLMs) to create interactive chains for exploring topics related to cricketers and historical events.
 
 ## Features
 
