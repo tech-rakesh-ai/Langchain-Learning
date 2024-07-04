@@ -86,8 +86,5 @@ Langchain-Learning is a Streamlit-based learning tool that leverages OpenAI's la
 
 ## Contributors
 
-- Your Name (@your_github_username)
+- Rakesh Kumar (@tech-rakesh-ai)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
